@@ -6,11 +6,15 @@
 ###### This is an even smaller header
 
 ## Common git commands
-##### creating a project
-```git init
-- git add .```
-##### commiting
-- git commit -a -m "commit message"
+-creating a project
+```
+git init
+git add .
+```
+-commiting
+```
+git commit -a -m "commit message"
+```
 ##### adding repo to commit to
 - git remote add origin "ssh link here"
 ##### create a new branch
