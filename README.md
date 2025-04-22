@@ -1,12 +1,12 @@
 # Learning MD by creating a git notes document
 ## Common git commands
-##### turning a dir into a repo
+- **turning a dir into a repo**
 ```
 git init
 git add .
 ```
-##### - inspecting repo `git status`
-##### - commiting `git commit -a -m "commit message"`
+- **inspecting repo** `git status`
+- **commiting** `git commit -a -m "commit message"`
 ##### adding repo to commit to
 `git remote add origin "your_origin_link_here"`
 ##### look to where you're pushing/fetching to/from
