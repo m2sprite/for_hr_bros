@@ -5,17 +5,21 @@
 git init
 git add .
 ```
-###### commiting
+##### inspecting repo
+`git status`
+##### commiting
 `git commit -a -m "commit message"`
-###### adding repo to commit to
+##### adding repo to commit to
 `git remote add origin "your_origin_link_here"`
-###### look to where you're pushing/fetching to/from
+##### look to where you're pushing/fetching to/from
 `git remote -v`
-###### create a new branch
+##### inspecting branch
+`git branch`
+##### create a new branch
 `git checkout "your_new_branch_name_here"`
-###### check branch diffs
+##### check branch diffs
 `git diff "your_branch_to_check_here"`
-###### push to repo
+##### push to repo
 `git push origin master`
 
 ## Git File States:
