@@ -23,7 +23,7 @@ git checkout "your_new_branch_name_here"
 ```
 ##### check branch diffs
 ```
-##### git diff "your_branch_to_check_here"
+git diff "your_branch_to_check_here"
 ```
 ##### push to repo
 ```
