@@ -8,6 +8,7 @@ git add .
 - **inspecting repo**
 ```
 git status
+git commit -a -m "your_commit_message"
 ```
 - **commiting**
 ```
@@ -40,6 +41,7 @@ git push origin master
 - **view commit history starting from most recent**
 ```
 git log --oneline
+git log --oneline --graph //graphing enabled
 ```
 
 ## Git File States:
