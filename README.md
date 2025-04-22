@@ -1,10 +1,4 @@
 # Learning MD by creating a git notes document
-## This is a header
-### This is a smaller header
-#### This is an even smaller header
-##### This is an even smaller header
-###### This is an even smaller header
-
 ## Common git commands
 ##### creating a project
 ```
