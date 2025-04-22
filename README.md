@@ -6,7 +6,7 @@ This is me learning git and Markdown at the same time
 ##### This is an even smaller header
 ###### This is an even smaller header
 
-##**Common git commands**
+**##Common git commands**
 *git init
 *git add .
 *git commit -a -m "commit message"
