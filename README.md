@@ -42,6 +42,7 @@ git push origin master
 ```
 git log --oneline
 git log --oneline --graph //graphing enabled
+git log --oneline -n10 --graph //last 10 commits graph
 ```
 
 ## Git File States:
