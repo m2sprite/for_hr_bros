@@ -37,6 +37,10 @@ git diff "your_branch_to_check_here"
 ```
 git push origin master
 ```
+- **view commit history starting from most recent**
+```
+git log --oneline
+```
 
 ## Git File States:
 - `untracked`: not being tracked
