@@ -7,12 +7,12 @@ This is me learning git and Markdown at the same time
 ###### This is an even smaller header
 
 **##Common git commands**
-*git init
-*git add .
-*git commit -a -m "commit message"
-*git remote add origin "urlofrepohere"
-*git checkout "branch name" <- new branch creation
-*git diff "branch name"
+- git init
+- git add .
+- git commit -a -m "commit message"
+- git remote add origin "urlofrepohere"
+- git checkout "branch name" <- new branch creation
+- git diff "branch name"
 
 ###FILE STATES:
 *untracked: not being tracked
