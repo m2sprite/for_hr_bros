@@ -19,8 +19,7 @@ git add .
 `git push origin master`
 
 ## Git File States:
-- untracked:
-not being tracked
+- `untracked`: not being tracked
 - staged:
 marked for next commit
 - committed:
