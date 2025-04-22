@@ -32,9 +32,9 @@ git checkout "your_new_branch_name_here"
 git push origin master
 ```
 ## Git File States:
-##### untracked:
+- untracked:
 not being tracked
-##### staged:
+- staged:
 marked for next commit
-##### committed:
+- committed:
 saved to history
