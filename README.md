@@ -5,9 +5,15 @@
 git init
 git add .
 ```
-- **inspecting repo** `git status`
-- **commiting** `git commit -a -m "your_commit_message"`
-- **adding repo to commit to** `git remote add origin "your_origin_link_here"`
+- **inspecting repo**
+```
+git status
+```
+- **commiting**
+```
+git commit -a -m "your_commit_message"
+```
+- **adding repo to commit to** ```git remote add origin "your_origin_link_here"```
 - **look to where you're pushing/fetching to/from** `git remote -v`
 - **inspecting branch** `git branch`
 - **create a new branch** `git checkout "your_new_branch_name_here"`
