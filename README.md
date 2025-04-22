@@ -5,7 +5,7 @@
 ##### This is an even smaller header
 ###### This is an even smaller header
 
-**## Common git commands**
+## Common git commands
 ### creating a project
 - git init
 - git add .
