@@ -1,4 +1,7 @@
 # Learning MD by creating a git notes document
+![img place](/imgs/repo_header_img.png)
+
+
 ## Common git commands
 - **turning a dir into a repo**
 ```
