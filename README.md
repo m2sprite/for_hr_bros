@@ -6,18 +6,18 @@
 ###### This is an even smaller header
 
 ## Common git commands
-### creating a project
-- git init
-- git add .
-### commiting
+##### creating a project
+```git init
+- git add .```
+##### commiting
 - git commit -a -m "commit message"
-### adding repo to commit to
+##### adding repo to commit to
 - git remote add origin "ssh link here"
-#### create a new branch
+##### create a new branch
 - git checkout "branch name" <- new branch creation
-#### check branch diffs
+##### check branch diffs
 - git diff "branch name"
-#### push to repo
+##### push to repo
 - git push origin master
 
 ### FILE STATES:
