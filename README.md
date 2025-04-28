@@ -28,7 +28,7 @@ git branch
 ```
 - **create a new branch**
 ```
-git checkout "your_new_branch_name_here"
+git checkout -b "your_new_branch_name_here"
 ```
 - **check branch diffs**
 ```
