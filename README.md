@@ -16,7 +16,7 @@ git status
 ```
 git commit -m "your_commit_message"
 ```
-- **adding origin location to commit to**
+- **adding origin location to push to**
 ```
 git remote add origin "your_origin_link_here"
 ```
