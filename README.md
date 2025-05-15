@@ -3,18 +3,20 @@
 - **turning a dir into a repo**
 ```
 git init
+```
+- **add files to track**
+```
 git add .
 ```
 - **inspecting repo**
 ```
 git status
-git commit -a -m "your_commit_message"
 ```
 - **commiting**
 ```
-git commit -a -m "your_commit_message"
+git commit -m "your_commit_message"
 ```
-- **adding repo to commit to**
+- **adding origin location to commit to**
 ```
 git remote add origin "your_origin_link_here"
 ```
@@ -36,7 +38,7 @@ git diff "your_branch_to_check_here"
 ```
 - **push to repo**
 ```
-git push origin master
+git push origin "your_branch_name"
 ```
 - **view commit history starting from most recent**
 ```
